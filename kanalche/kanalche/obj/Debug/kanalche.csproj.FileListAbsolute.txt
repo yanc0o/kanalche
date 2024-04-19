@@ -1,0 +1,16 @@
+C:\Users\yanislav\source\repos\kanalche\kanalche\bin\Debug\kanalche.exe.config
+C:\Users\yanislav\source\repos\kanalche\kanalche\bin\Debug\kanalche.exe
+C:\Users\yanislav\source\repos\kanalche\kanalche\bin\Debug\kanalche.pdb
+C:\Users\yanislav\source\repos\kanalche\kanalche\obj\Debug\kanalche.csproj.AssemblyReference.cache
+C:\Users\yanislav\source\repos\kanalche\kanalche\obj\Debug\kanalche.Properties.Resources.resources
+C:\Users\yanislav\source\repos\kanalche\kanalche\obj\Debug\kanalche.csproj.GenerateResource.cache
+C:\Users\yanislav\source\repos\kanalche\kanalche\obj\Debug\kanalche.csproj.CoreCompileInputs.cache
+C:\Users\yanislav\source\repos\kanalche\kanalche\obj\Debug\kanalche.exe
+C:\Users\yanislav\source\repos\kanalche\kanalche\obj\Debug\kanalche.pdb
+C:\Users\yanislav\source\repos\kanalche\kanalche\bin\Debug\Interop.WMPLib.dll
+C:\Users\yanislav\source\repos\kanalche\kanalche\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\yanislav\source\repos\kanalche\kanalche\obj\Debug\Interop.WMPLib.dll
+C:\Users\yanislav\source\repos\kanalche\kanalche\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\yanislav\source\repos\kanalche\kanalche\obj\Debug\kanalche.csproj.ResolveComReference.cache
+C:\Users\yanislav\source\repos\kanalche\kanalche\obj\Debug\kanalche.Kanalche.resources
+C:\Users\yanislav\source\repos\kanalche\kanalche\bin\Debug\Resources\MBT - Magapassa(Pashata SOLO).mp4
